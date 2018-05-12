@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '35572'
     url: http://www.gutenberg.org/2009/agents/35572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31954#Noorsche-mythen-uit-de-Edda-s-en-de-sagen
 gutenberg_issued: '2010-04-11'
 gutenberg_type: Text
 identifiers:
