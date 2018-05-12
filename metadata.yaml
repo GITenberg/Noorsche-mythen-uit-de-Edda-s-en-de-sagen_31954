@@ -1,0 +1,39 @@
+_repo: Noorsche-mythen-uit-de-Edda-s-en-de-sagen_31954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerber, H. A. (Hélène Adeline)
+    aliases:
+    - Guerber, Hélène Adeline
+    - Guerber, Helene Adeline
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '5313'
+    url: http://www.gutenberg.org/2009/agents/5313
+  editor:
+    agent_name: Bergh van Eysinga, Henri van den
+    aliases:
+    - Eysinga, Henri van den Bergh van
+    - Van Eysinga, Henri van den Bergh
+    - Van den Bergh van Eysinga, Henri
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '35572'
+    url: http://www.gutenberg.org/2009/agents/35572
+description: ''
+gutenberg_issued: '2010-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31954'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Mythology, Norse'
+title: Noorsche mythen uit de Edda's en de sagen
+url: http://www.gutenberg.org/ebooks/31954
